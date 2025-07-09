@@ -1,0 +1,119 @@
+boring website
+
+-ads for money
+
+Passive incomes website 
+
+Generated heavy amounts of user availability
+
+Most likely. Image converter
+
+Yt to mp3 stuff like that 
+
+Just in a 2025 active theme and not the old 2015 dry theme 
+
+💰 Your Passive Income Website Plan (Modern 2025)
+
+
+
+✅ Site Type:
+
+
+
+“Tool site” — with stuff people Google daily:
+
+	•	📸 Image converter (JPG ↔ PNG, WebP, etc.)
+
+	•	🎵 YouTube to MP3/MP4 downloader
+
+	•	📝 PDF converter
+
+	•	(Later) AI Chatbot, QR code generator, etc.
+
+
+
+⸻
+
+
+
+🔧 1. Tech Stack (Free + Scalable)
+
+Need
+
+Free Tools
+
+Hosting
+
+GitHub Pages or Cloudflare Pages
+
+Backend (optional)
+
+Cloudflare Workers or serverless APIs
+
+Domain
+
+You already own rtqzy.com and rtqzy.store ✅
+
+UI/UX Theme
+
+TailwindCSS + Clean dark/light 2025 layout
+
+Analytics
+
+Plausible (privacy-safe) or Google Analytics
+
+Ad Monetization
+
+Monetag, PropellerAds, or Google AdSense
+
+🎯 2. What Your Site Will Do
+
+
+
+Homepage (rtqzy.com or /tools):
+
+	•	Header: logo, navbar
+
+	•	Welcome text (e.g. “Free everyday tools powered by Rtqzy.”)
+
+	•	Grid of tools:
+
+	•	📷 Image Converter
+
+	•	🎥 YouTube to MP3
+
+	•	📝 PDF Merger/Splitter
+
+	•	(Optionally) Chatbot, AI image generator
+
+
+
+Each tool opens on a new page (or in modals) — clean UX.
+
+Type
+
+Description
+
+🧃 Pop-under Ads
+
+E.g. Monetag: trigger every 2–3 uses
+
+🪙 Banner ads
+
+Basic display ads above/below tools
+
+🎁 Unlock Tool w/Ad
+
+Use JavaScript to require watching ad after X uses
+
+💳 (Optional) Premium
+
+Later you can offer “No ads + Fast downloads” for $1-$3/month
+
+Neon glow or frosted glass
+
+	•	Responsive (mobile-first)
+
+	•	Dark/light toggle
+
+	•	Fluid animation for progress bars, drag & drop
